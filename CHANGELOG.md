@@ -1,5 +1,12 @@
 # Changelog
 
+### [3.5.4](https://github.com/roseline124/action-semantic-pull-request/compare/v3.5.3...v3.5.4) (2021-10-18)
+
+
+### Bug Fixes
+
+* action.yml (description has to be below 125 chars) ([2a842ba](https://github.com/roseline124/action-semantic-pull-request/commit/2a842ba81b7af123d27889169d3ef27aaa04bd4a))
+
 ### [3.5.2](https://github.com/roseline124/action-semantic-pull-request/compare/v3.5.1...v3.5.2) (2021-10-18)
 
 
